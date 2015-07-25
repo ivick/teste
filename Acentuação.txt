@@ -5,3 +5,4 @@ isso é um teste de acentos.
 çç
 
 óá
+outra coisa.
