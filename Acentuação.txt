@@ -1,0 +1,7 @@
+﻿Armazenar documentos digitalizados dos docentes, para que posteriormente os mesmos consigam gerar o relatório de progressão acadêmica de acordo com seus documentos cadastrados no sistema.
+
+isso é um teste de acentos.
+
+çç
+
+óá
